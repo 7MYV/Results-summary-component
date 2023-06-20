@@ -210,18 +210,8 @@ footer {
 }
 
 @media (max-width: 550px) {
-    
-
-    .attribution {
-        font-size: 12px;
-    }
-
-    .attribution a {
-        font-size: 14px;
-    }
-
     footer {
-        bottom: 25px;
+        display:none;
     }
     section {
         flex-direction: column;
